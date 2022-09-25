@@ -36,7 +36,6 @@
 </template>
 <script setup>
 import { ref } from "vue";
-  import ChildOne from "./components/ChildOne.vue";
   import PullRefresh from "@/components/PullRefresh.vue";
   import Divider from "@/components/Divider.vue";
   import DatetimePicker from "@/components/DatetimePicker/index.vue";
